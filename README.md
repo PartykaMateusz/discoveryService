@@ -1,5 +1,7 @@
 Eureka discovery service for TravelApp.
 
-Other services:
-- attraction-service: https://github.com/PartykaMateusz/attraction-service
+All services:
+- discovery-service: https://github.com/PartykaMateusz/discoveryService
 - config-service: https://github.com/PartykaMateusz/config-service
+- attraction-service: https://github.com/PartykaMateusz/attraction-service
+
